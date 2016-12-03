@@ -6,13 +6,13 @@
 <br>
 ##useage
 
-###make file .env .
+###make file <b>.env</b> .
 
-write slack bot api token
-SLACK_API_TOKEN=xoxb-11211112228-VwnTyi1122JSiatnrgmUkkqFAsR
+write slack bot api token<br>
+<b>SLACK_API_TOKEN=xoxb-11211112228-VwnTyi1122JSiatnrgmUkkqFAsR</b>
 
 ###run
-ruby app.rb
+<b>ruby app.rb</b>
 <br>
 
 #if you add method ,see this page.<br>
