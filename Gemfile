@@ -1,0 +1,10 @@
+source 'http://rubygems.org'
+
+gem 'slack-ruby-bot'
+gem 'puma'
+gem 'sinatra'
+gem 'rake'
+gem 'foreman'
+gem 'dotenv'
+gem 'faye-websocket'
+gem 'eventmachine'
