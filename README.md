@@ -1,13 +1,23 @@
 # slack-ruby-client_turorial
 
+##this is realtime bot of slack.<br>
 
-this is realtime bot of slack.
-<img>
-1480755918763.jpg
+![サンプル](https://github.com/miyamotok0105/slack-ruby-client_turorial/blob/master/1480755918763.jpg "サンプル")
+<br>
+##useage
 
-if you add method ,see this page.
-https://github.com/slack-ruby/slack-ruby-client
+###make file .env .
 
-if you want more detail,see slack api page.
-https://api.slack.com/rtm
+write slack bot api token
+SLACK_API_TOKEN=xoxb-11211112228-VwnTyi1122JSiatnrgmUkkqFAsR
+
+###run
+ruby app.rb
+<br>
+
+#if you add method ,see this page.<br>
+https://github.com/slack-ruby/slack-ruby-client<br>
+
+#if you want more detail,see slack api page.<br>
+https://api.slack.com/rtm<br>
 
